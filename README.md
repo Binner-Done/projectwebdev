@@ -4,3 +4,5 @@ Hi, I'm Binner_Done. I've been wanting to learn Web Development for a while and 
 Why?
 Because I said so.
 
+What't this bit for?
+Comedy.
